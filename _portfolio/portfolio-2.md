@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "Bikepacking through Europe<br/><img src='/images/bikepacking.jpg' width='500' height='500'>"
+excerpt: "Renovating an alpine hut in the Italian Alps<br/><img src='/images/hut.jpg' width='500' height='500'>"
 collection: portfolio
 ---
 
