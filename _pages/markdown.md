@@ -8,6 +8,33 @@ redirect_from:
 ---
 
 <style>
+  .full-figure {
+    width: 100%;
+    margin: 0 0 2em 0;
+  }
+  .figure-title {
+    margin: 0 0 0.5em 0;
+  }
+  .figure-title a {
+    text-decoration: none;
+  }
+  .full-figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .full-figure figcaption {
+    display: block;
+    font-size: 0.85em;
+    color: #666;
+    margin-top: 0.4em;
+  }
+  .full-figure figcaption a {
+    display: inline;
+    font: inherit;
+    color: inherit;
+    text-decoration: underline;
+  }
   .two-col {
     display: flex;
     gap: 1em;
@@ -16,6 +43,17 @@ redirect_from:
   .two-col .col-software { flex: 2; min-width: 280px; }
   .two-col .col-languages { flex: 1; min-width: 220px; }
 </style>
+
+<figure class="full-figure">
+  <h2 class="figure-title"><a href="https://doi.org/10.25972/OPUS-42654">Research Foci</a></h2>
+  <img src="/images/ResearchFoci.jpg" alt="Description of the new figure">
+</figure>
+
+<figure class="full-figure">
+  <h2 class="figure-title"><a href="https://eodata.dlr.de/en/datasets/forest_structure/view">Forest Structure Data for Germany (visualization)</a></h2>
+  <img src="/images/ForestStructureGermany.png" alt="Modeled forest structure for Germany in 10m (2017-2023) using machine learning models.">
+  <figcaption>Modeled forest structure for Germany in 10m (2017-2023) using machine learning models. <a href="https://doi.org/10.3390/rs15081969" target="_blank" rel="noopener">Kacic et al. (2023)</a>.</figcaption>
+</figure>
 
 <div class="two-col">
 
