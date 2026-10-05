@@ -39,26 +39,9 @@ Work experience
   * Forest structure analyses using Sentinel-1, Sentinel-2, and GEDI data
   * Organization of training workshop about forest monitoring using satellite data for researchers
   
-Skills
-======
-* **Expert**: 
-  * <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt=" programming" width="25" height="25">&emsp;Python
-  * <img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt=" (GEE)" width="25" height="25">&emsp;Google Earth Engine
-  * <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt=" (GIS)" width="25" height="25">&emsp;QGIS
-
-* **Advanced**:
-  * <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" alt=" programming" width="25" height="25">&emsp;Git
-  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAoMs2hSCY_UiVio5we0LFsKHhfRNcsFhU2o9lIebi-Q&s=10" alt=" cluster processing" width="25" height="25">&emsp;Slurm (HPDA)
-  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqPgJcdXPtbvnYCsBDOmxTXmhCLFHqg8l8j5oPmn62g&s=10" alt=" (terminal)" width="25" height="25">&emsp;Linux
-  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCXQqyIvHzgP2znt6ifkqAPf1bg0bsj98GH9lzzlMvw&s" alt=" programming" width="25" height="25">&emsp;VS Code
-
-* **Comfortable**:
-  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTrXZvc9MJqOb4ulCwUgY93skggW--H4ppawUweIitA&s=10" alt=" statistics" width="25" height="25">&emsp;R
-  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzko8soDmFPYFWSotIB29h46NSyKi4MV3xEsY1jp0Wg&s=10" alt=" (media creation)" width="25" height="25">&emsp;Inkscape
-  
 Internships
 ======
-* 12/2025 - present: **Master thesis** at **German Aerospace Center (DLR)**, Munich (Germany)
+* 03/2021 - 12/2021: **Master thesis** at **German Aerospace Center (DLR)**, Munich (Germany)
   * Deforestation monitoring and forest structure analyses using GEDI, Sentinel-1 and -2.
   
 * 01/2020 - 09/2020: **Student assistant** at **University of Freiburg** (Germany)
@@ -72,10 +55,19 @@ Internships
 
 * 11/2017 - 08/2018: **Student assistant** at **University of Heidelberg** (Germany)
   * Laboratory assistant for soil and vegetation analyses, including field work.
-  
-Languages
+
+Engagement
 ======
-* German :de: (native)
-* English :gb: (fluent, C1)
-* French :fr: (intermediate, B2)
-* Italian :it:, spanish :es: (basic, A2)
+* 03/2025 - 05/2026: Homework support and integration activities for a migrant pupil (Caritas Garmisch-Partenkirchen)
+  
+* 04/2025: Professional development course on peer case consultation for doctoral researchers (University of Würzburg)
+
+* 01/2025: Professional development course on building research careers (University of Würzburg)
+
+* 08/2023: First aid training at the German Aerospace Center (DLR)
+
+* 03/2023: Professional development course on mental health in the workplace (University of Würzburg)
+
+* 04/2018 - 07/2018: Environmental education activities for pupils (City of Mannheim)
+
+* 11/2014 - 02/2015: Federal Volunteer Service (Bundesfreiwilligendienst), a workshop for people with intellectual disabilities (Ludwigshafener Werkstätten)

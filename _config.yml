@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Patrick Kacic - Home"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Patrick Kacic"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Patrick Kacic"
-  pronouns         : "he/him"  
+  pronouns         : "Earth Observation scientist with a curiosity for forests"  
   bio              : #
   location         : "Freiburg im Breisgau, Germany"
   employer         : "German Aerospace Center (DLR)"
